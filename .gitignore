@@ -13,8 +13,11 @@ jars
 hs_err_pid*
 
 HTMLProcessor/.classpath
-/.metadata/
+.metadata
+.settings
 
 *.log
+!pom.xml
 *.xml
 Remote*
+
